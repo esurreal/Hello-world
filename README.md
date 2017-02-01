@@ -1,2 +1,2 @@
 # Hello-world
-numero uno
+Hi. I'm esurreal. I'm enjoying the python language. It's my first. I'm a little over a month in and obviously have a long ways to go. I've created a few programs from scratch and gone through a few tutorials, but not much more than that. I like it a lot and can't believe I actually know as much as I already do (which isn't much). I hope i can keep learning here and add whatever I can to the process. Thanks.
